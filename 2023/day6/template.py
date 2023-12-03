@@ -1,8 +1,6 @@
 import sys
 # import aocd
 
-DAY = {{DAY}}
-YEAR = {{YEAR}}
 
 def part_a(input_data):
     # Your solution for Part A
